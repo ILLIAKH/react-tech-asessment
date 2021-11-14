@@ -1,0 +1,9 @@
+.modal-view {
+    z-index: 1000;
+    padding: 15px;
+    position: fixed;
+    top: 7.7%;
+    /* max-height: 10em; */
+    left: 33.6%;
+    width: 32.8%;
+}
