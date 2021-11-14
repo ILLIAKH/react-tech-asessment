@@ -12,8 +12,6 @@ const App = () => {
   return (
     <div className='container'>
       <Header/>
-      {/* <h1>{activityFeed[0].id}</h1> */}
-      {/* <div className="container-view">Some activities should be here</div> */}
       <ActivityFeed/>
     </div>
   );
